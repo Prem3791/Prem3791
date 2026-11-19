@@ -1,19 +1,25 @@
 👋 Hi, I'm Prem Kumar Chimakurthi
+
 Data Scientist | Machine Learning Engineer | Python Developer
+
 I build data-driven applications and machine learning solutions using Python, SQL, statistical analysis, and cloud technologies. My interests span the full machine learning lifecycle—from data preparation and exploratory analysis to model development, evaluation, deployment, and monitoring.
+
 I also work with Generative AI technologies, including large language models (LLMs), retrieval-augmented generation (RAG), and AI application frameworks.
 🚀 Core Areas
+
 Data Science & Analytics: Exploratory data analysis, statistical analysis, feature engineering, hypothesis testing, forecasting, and data visualization.
 Machine Learning: Classification, regression, clustering, predictive modeling, anomaly detection, and model evaluation.
 Python Development: Python applications, REST APIs, FastAPI, Flask, Django, automation, Pandas, and NumPy.
 Generative AI: LLMs, RAG, agentic AI concepts, LangChain, Azure OpenAI, and vector search.
 Cloud & Data Platforms: Microsoft Azure, Azure Machine Learning, Azure Databricks, AWS, and Snowflake.
 Big Data & MLOps: PySpark, Apache Spark, Kafka, MLflow, Docker, Kubernetes, and CI/CD.
+
 🏅 Certifications
 Microsoft Certified: Azure AI Engineer Associate — AI-102
 Microsoft Certified: Azure Data Scientist Associate — DP-100
 AWS Machine Learning Foundations
 Databricks Platform Architect
+
 📌 Featured Project Areas
 The projects I showcase here focus on practical applications of:
 Predictive Analytics & Forecasting — exploring historical data, building predictive models, and evaluating model performance.
@@ -22,13 +28,16 @@ Python Applications & APIs — developing maintainable Python services, automati
 Generative AI & RAG — building LLM-powered applications that retrieve and use relevant information.
 Data Pipelines & ML Workflows — preparing, processing, and operationalizing data for analytics and machine learning.
 I’m continuing to organize and document these project areas in individual repositories. Please see my pinned repositories for the projects currently available.
+
 🌐 Connect With Me
 LinkedIn: https://www.linkedin.com/in/premkch/
 Portfolio: https://prem3791.github.io/
 GitHub: https://github.com/Prem3791
 Email: prem.chimakurthi@gmail.com
+
 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+
 💻 Tech Stack
 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
